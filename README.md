@@ -3,7 +3,7 @@ This interactive dashboard provides a comprehensive overview of global health in
 It highlights key trends, disparities, and correlations in health outcomes such as life expectancy, infant mortality, vaccination coverage, disease prevalence, and GDP per capita.
 
 **📊 Key Insights**
-**GDP vs. Life Expectancy** Weak correlation across all regions (low R² values, minimal trendline slopes). 
+**GDP vs. Life Expectancy** Weak correlation across all regions (minimal trendline slopes). 
 Higher GDP per capita does not consistently lead to longer life expectancy. 
 Germany shows the diminishing returns of wealth on longevity, with the highest GDP per capita but only mid-range life expectancy. 
 China and Australia achieve high life expectancy at substantially lower GDP levels than Germany. 
